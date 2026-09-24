@@ -118,7 +118,3 @@ Live vacancy data is obtained from the HeadHunter public API endpoint used by th
 ## Notes
 
 The repository stores application media and static assets, while the local SQLite database and Python cache files are intentionally excluded from version control.
-
-## License
-
-License information should be added here when the project license is finalized.
